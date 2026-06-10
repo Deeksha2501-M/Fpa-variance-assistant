@@ -22,4 +22,4 @@ An AI-powered financial planning and analysis tool that automates variance comme
 4. Run: `streamlit run app.py`
 
 ## Live Demo
-[Coming soon - Streamlit Cloud deployment]
+(https://fpa-variance-assistant-e2aplqytfskkmfuydhuy6a.streamlit.app)
